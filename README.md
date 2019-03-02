@@ -1,0 +1,2 @@
+# CityPlan
+This is an iOS application built using swift language on xcode which decides where should the garbage facility be kept on the basis of population and location of four cities entered. The hypothetical situation is that its the election time and the mayor wants to place the garbage facility in a grid representing the location in such a way that he gets maximum number of votes meaning the the garbage facility will be farthest from the city which has maximum population.
